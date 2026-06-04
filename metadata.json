@@ -1,0 +1,59 @@
+{
+  "siteId": "indoor-plant-landscaping",
+  "generatedAt": "2026-06-04T11:35:48.020621",
+  "categories": [
+    "beginner-indoor-plant-landscaping",
+    "advanced-indoor-plant-landscaping",
+    "tips-indoor-plant-landscaping",
+    "history-indoor-plant-landscaping",
+    "trending-indoor-plant-landscaping",
+    "tutorials-indoor-plant-landscaping"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-indoor-plant-landscaping",
+      "category_name": "Beginner Indoor Plant Landscaping"
+    },
+    {
+      "category_slug": "advanced-indoor-plant-landscaping",
+      "category_name": "Advanced Indoor Plant Landscaping"
+    },
+    {
+      "category_slug": "tips-indoor-plant-landscaping",
+      "category_name": "Indoor Plant Landscaping Tips"
+    },
+    {
+      "category_slug": "history-indoor-plant-landscaping",
+      "category_name": "Indoor Plant Landscaping History"
+    },
+    {
+      "category_slug": "trending-indoor-plant-landscaping",
+      "category_name": "Trending Indoor Plant Landscaping"
+    },
+    {
+      "category_slug": "tutorials-indoor-plant-landscaping",
+      "category_name": "Indoor Plant Landscaping Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "indoor-plant-landscaping",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered",
+    "site_title": "Indoor Plant Landscaping Central",
+    "articles_per_row": 4
+  }
+}
